@@ -8,3 +8,5 @@ else{z<-z-1}}
 as<-rnorm(10)
 
 az<-rrrr
+a
+aas

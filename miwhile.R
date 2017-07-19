@@ -4,3 +4,5 @@ while(z>=3 && z<=10){
 	coin<-rbinom(1,1,.5)
 if(coin==1){z<-z+1}
 else{z<-z-1}}
+
+as<-rnorm(10)

@@ -13,3 +13,6 @@ meanscolum<-function(x){
 		prom[i]<-mean(x[,i])}
 print(prom)
 	}
+
+
+snoaequepedo

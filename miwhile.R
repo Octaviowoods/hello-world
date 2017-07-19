@@ -6,3 +6,5 @@ if(coin==1){z<-z+1}
 else{z<-z-1}}
 
 as<-rnorm(10)
+
+az<-rrrr
